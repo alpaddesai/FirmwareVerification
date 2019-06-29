@@ -1,0 +1,15 @@
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\bin\Release\SystemVerilogDV.exe.config
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\bin\Release\SystemVerilogDV.exe
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\bin\Release\SystemVerilogDV.pdb
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\SystemVerilogDV.csprojAssemblyReference.cache
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\MainWindow.g.cs
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\App.g.cs
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\SystemVerilogDV_MarkupCompile.cache
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\SystemVerilogDV_MarkupCompile.lref
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\MainWindow.baml
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\SystemVerilogDV.g.resources
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\SystemVerilogDV.Properties.Resources.resources
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\SystemVerilogDV.csproj.GenerateResource.cache
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\SystemVerilogDV.csproj.CoreCompileInputs.cache
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\SystemVerilogDV.exe
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\SystemVerilogDV.pdb
