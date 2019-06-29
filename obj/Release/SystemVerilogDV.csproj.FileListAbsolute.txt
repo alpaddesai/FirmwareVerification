@@ -1,7 +1,6 @@
 C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\bin\Release\SystemVerilogDV.exe.config
 C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\bin\Release\SystemVerilogDV.exe
 C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\bin\Release\SystemVerilogDV.pdb
-C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\SystemVerilogDV.csprojAssemblyReference.cache
 C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\MainWindow.g.cs
 C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\App.g.cs
 C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\SystemVerilogDV_MarkupCompile.cache
@@ -13,3 +12,10 @@ C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\SystemVeri
 C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\SystemVerilogDV.csproj.CoreCompileInputs.cache
 C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\SystemVerilogDV.exe
 C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\SystemVerilogDV.pdb
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\Hardware Emulation.g.cs
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\System Level Modeling.g.cs
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\Hardware Emulation.baml
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\System Level Modeling.baml
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\SystemVerilogDV.csprojAssemblyReference.cache
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\SystemVerilogAssertions.g.cs
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\SystemVerilogAssertions.baml

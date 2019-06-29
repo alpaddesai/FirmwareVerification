@@ -39,5 +39,33 @@ namespace SystemVerilogDV
         {
 
         }
+
+        private void RichTextBox_TextChanged_3(object sender, TextChangedEventArgs e)
+        {
+
+        }
+
+        private void HW_Emulation_Click(object sender, RoutedEventArgs e)
+        {
+            Hardware_Emulation Hardware_EmulationObject = new Hardware_Emulation();
+            Hardware_EmulationObject.Show();
+        }
+
+        private void System_Level_Modeling_Click(object sender, RoutedEventArgs e)
+        {
+            System_Level_Modeling System_Level_ModelingObject = new System_Level_Modeling();
+            System_Level_ModelingObject.Show();
+        }
+
+        private void SystemVerilog_Assertions_Click(object sender, RoutedEventArgs e)
+        {
+            SystemVerilogAssertions SystemVerilogAssertionsObject = new SystemVerilogAssertions();
+            SystemVerilogAssertionsObject.Show();
+        }
+
+        private void RichTextBox_TextChanged_4(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }
