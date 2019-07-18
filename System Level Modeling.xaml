@@ -20,7 +20,7 @@
             <ColumnDefinition Width="119*"/>
             <ColumnDefinition Width="145*"/>
         </Grid.ColumnDefinitions>
-        <Image HorizontalAlignment="Left" Height="400" Margin="81,12,0,0" VerticalAlignment="Top" Width="692" Grid.ColumnSpan="2" Source="Image3.png"/>
+        <Image HorizontalAlignment="Left" Height="372" Margin="159,28,0,0" VerticalAlignment="Top" Width="575" Source="Language Comparison.jpg" Grid.ColumnSpan="2"/>
 
     </Grid>
 </Window>

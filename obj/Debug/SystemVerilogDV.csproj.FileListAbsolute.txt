@@ -18,4 +18,3 @@ C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Debug\SystemVerilo
 C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Debug\SystemVerilogDV.csproj.CoreCompileInputs.cache
 C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Debug\SystemVerilogDV.exe
 C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Debug\SystemVerilogDV.pdb
-C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Debug\SystemVerilogDV.csprojAssemblyReference.cache
