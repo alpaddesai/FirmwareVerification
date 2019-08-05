@@ -5,11 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SystemVerilogDV"
         mc:Ignorable="d"
-        Title="System_Level_Modeling" Height="450" Width="800" MaxWidth="800" MaxHeight="450">
+        Title="System_Level_Modeling" Height="426" Width="582.5" MaxWidth="800" MaxHeight="450">
     <Window.Background>
         <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ActiveCaptionColorKey}}"/>
     </Window.Background>
-    <Grid MaxWidth="792" MaxHeight="419">
+    <Grid MaxWidth="792" MaxHeight="419" Margin="10,4,12,6">
         <Grid.Background>
             <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                 <GradientStop Color="Black" Offset="0"/>
@@ -20,7 +20,7 @@
             <ColumnDefinition Width="119*"/>
             <ColumnDefinition Width="145*"/>
         </Grid.ColumnDefinitions>
-        <Image HorizontalAlignment="Left" Height="372" Margin="159,28,0,0" VerticalAlignment="Top" Width="575" Source="Language Comparison.jpg" Grid.ColumnSpan="2"/>
+        <Image HorizontalAlignment="Left" Height="318" Margin="62,24,-10,0" VerticalAlignment="Top" Width="500" Source="Language Comparison.jpg" Grid.ColumnSpan="2"/>
 
     </Grid>
 </Window>

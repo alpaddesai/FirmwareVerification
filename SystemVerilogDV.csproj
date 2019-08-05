@@ -55,12 +55,29 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="FormalPropertyVerification.xaml.cs">
+      <DependentUpon>FormalPropertyVerification.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FPGAVivadoDesignSuite.xaml.cs">
+      <DependentUpon>FPGAVivadoDesignSuite.xaml</DependentUpon>
+    </Compile>
     <Compile Include="System Level Modeling.xaml.cs">
       <DependentUpon>System Level Modeling.xaml</DependentUpon>
     </Compile>
     <Compile Include="SystemVerilogAssertions.xaml.cs">
       <DependentUpon>SystemVerilogAssertions.xaml</DependentUpon>
     </Compile>
+    <Compile Include="XilinxTrainingCertificate.xaml.cs">
+      <DependentUpon>XilinxTrainingCertificate.xaml</DependentUpon>
+    </Compile>
+    <Page Include="FormalPropertyVerification.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FPGAVivadoDesignSuite.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Hardware Emulation.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -85,6 +102,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="SystemVerilogAssertions.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="XilinxTrainingCertificate.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -123,6 +144,30 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Language Comparison.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image11.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

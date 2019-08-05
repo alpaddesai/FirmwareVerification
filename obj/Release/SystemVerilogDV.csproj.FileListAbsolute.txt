@@ -19,3 +19,9 @@ C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\System Lev
 C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\SystemVerilogDV.csprojAssemblyReference.cache
 C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\SystemVerilogAssertions.g.cs
 C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\SystemVerilogAssertions.baml
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\FormalPropertyVerification.g.cs
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\FPGAVivadoDesignSuite.g.cs
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\XilinxTrainingCertificate.g.cs
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\FormalPropertyVerification.baml
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\FPGAVivadoDesignSuite.baml
+C:\Users\ADG\source\repos\SystemVerilogDV\SystemVerilogDV\obj\Release\XilinxTrainingCertificate.baml

@@ -5,11 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SystemVerilogDV"
         mc:Ignorable="d"
-        Title="Hardware_Emulation" Height="450" Width="800">
+        Title="Hardware_Emulation" Height="383" Width="628" MaxWidth="800" MaxHeight="450">
     <Grid MaxWidth="790" MaxHeight="419" Margin="0,0,2,0">
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="25*"/>
-            <ColumnDefinition Width="371*"/>
+            <ColumnDefinition Width="24*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="370*"/>
         </Grid.ColumnDefinitions>
         <Grid.Background>
             <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
@@ -17,7 +18,7 @@
                 <GradientStop Color="{DynamicResource {x:Static SystemColors.ActiveCaptionColorKey}}" Offset="1"/>
             </LinearGradientBrush>
         </Grid.Background>
-        <Image HorizontalAlignment="Left" Height="314" VerticalAlignment="Top" Width="614" Margin="43.476,42,0,0" Source="Image1.png" Grid.Column="1"/>
+        <Image Margin="19,7,19.435,8" Source="Image4.png" Stretch="Fill" Grid.ColumnSpan="3"/>
 
     </Grid>
 </Window>

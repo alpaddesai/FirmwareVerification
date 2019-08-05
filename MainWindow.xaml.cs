@@ -67,5 +67,22 @@ namespace SystemVerilogDV
         {
 
         }
+
+        private void RichTextBox_TextChanged_5(object sender, TextChangedEventArgs e)
+        {
+
+        }
+
+        private void FPGA_Vivado_Click(object sender, RoutedEventArgs e)
+        {
+            FPGAVivadoDesignSuite FPGAVivadoDesignSuiteObject = new FPGAVivadoDesignSuite();
+            FPGAVivadoDesignSuiteObject.Show();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            XilinxTrainingCertificate XilinxTrainingCertificateObject = new XilinxTrainingCertificate();
+            XilinxTrainingCertificateObject.Show();
+        }
     }
 }
