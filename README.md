@@ -11,4 +11,6 @@ The project provides an introduction to system level verification. Confidential 
 
 ![image](FPGAVivadoDesignSuiteImage.png)
 
+![image](HardentStudentCertificate.png)
+
 
