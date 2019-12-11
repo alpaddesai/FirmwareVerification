@@ -13,4 +13,5 @@ The project provides an introduction to system level verification. Confidential 
 
 ![image](HardentStudentCertificate.png)
 
+![image](SystemVerilog.jpg)
 
