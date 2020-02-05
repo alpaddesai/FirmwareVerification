@@ -15,3 +15,4 @@ The project provides an introduction to system level verification. Confidential 
 
 ![image](SystemVerilog.jpg)
 
+![image](SystemVerilogCertificate.jpg)
