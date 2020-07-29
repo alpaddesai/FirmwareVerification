@@ -17,11 +17,11 @@ The project provides an introduction to system level verification. Confidential 
 
 ## Cadence System Verilog 
 ![image](SystemVerilogCertificate.jpg)
+## Images of examples from the certification
 ![image](CadenceCertificationLabworkExample.jpg)
+## Cadence Incisive 15.2
+![image](LabSimulations.png)
 
 
 ## Cadence System Verilog Assertions
 ![image](SystemVerilogAssertions.png)
-
-## Cadence Incisive 15.2
-![image](LabSimulations.png)
