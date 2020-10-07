@@ -26,4 +26,7 @@ The project provides an introduction to system level verification. Confidential 
 ## Cadence System Verilog Assertions
 ![image](SystemVerilogAssertions.png)
 
+## SoC 
+![image](SoC_SystemVerilog.jpg)
+
 Additional details please reference : https://github.com/alpaddesai/ObjectOrientedDesignProgramming
