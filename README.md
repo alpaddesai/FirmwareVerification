@@ -29,4 +29,7 @@ The project provides an introduction to system level verification. Confidential 
 ## SoC 
 ![image](SoC_SystemVerilog.jpg)
 
+![image](USCopyrightCertificateofRegistration.png)
+
 Additional details please reference : https://github.com/alpaddesai/ObjectOrientedDesignProgramming
+
