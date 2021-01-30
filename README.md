@@ -31,5 +31,8 @@ The project provides an introduction to system level verification. Confidential 
 
 ![image](USCopyrightCertificateofRegistration.png)
 
-Additional details please reference : https://github.com/alpaddesai/ObjectOrientedDesignProgramming
+Additional details please reference : https://github.com/alpaddesai/DigitalIC_VLSIDesign,
+https://github.com/alpaddesai/SystemVerilog , https://github.com/alpaddesai/AnalogDesign,https://github.com/alpaddesai/ICPackageDesign ,
+https://github.com/alpaddesai/MixedSignal_SystemOnChip, https://github.com/alpaddesai/PowerElectronic
+
 
