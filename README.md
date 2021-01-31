@@ -31,6 +31,6 @@ The project provides an introduction to system level verification. Confidential 
 
 ![image](USCopyrightCertificateofRegistration.png)
 
-Additional details please reference : https://github.com/alpaddesai/DigitalIC_VLSIDesign, https://github.com/alpaddesai/AnalogDesign and https://github.com/alpaddesai/MixedSignal_SystemOnChip. 
+Additional details please reference : https://github.com/alpaddesai/DigitalIC_VLSIDesign and https://github.com/alpaddesai/MixedSignal_SystemOnChip. 
 
 
