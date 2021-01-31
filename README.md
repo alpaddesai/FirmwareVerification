@@ -31,7 +31,7 @@ The project provides an introduction to system level verification. Confidential 
 
 ![image](USCopyrightCertificateofRegistration.png)
 
-https://vdtt.iitd.ac.in/MENU/Courses.php
+https://nz.linkedin.com/school/l.d-college-of-engineering---ahmedabad/  |   https://vdtt.iitd.ac.in/MENU/Courses.php
 
 Additional details please reference : https://github.com/alpaddesai/DigitalIC_VLSIDesign and https://github.com/alpaddesai/MixedSignal_SystemOnChip. 
 
