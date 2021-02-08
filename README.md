@@ -33,6 +33,6 @@ The project provides an introduction to system level verification. Confidential 
 
 https://nz.linkedin.com/school/l.d-college-of-engineering---ahmedabad/  |   https://vdtt.iitd.ac.in/MENU/Courses.php | https://www.scu.edu/engineering/academic-programs/department-of-electrical-engineering/graduate/certificate-programs/
 
-Additional details please reference : https://github.com/alpaddesai/DigitalIC_VLSIDesign, https://github.com/alpaddesai/MixedSignal_SystemOnChip , https://github.com/alpaddesai/ProductMarketing and https://github.com/alpaddesai/SystemLevelDesignProductPortfolioIdea
+Additional details please reference : https://github.com/alpaddesai/DigitalIC_VLSIDesign, https://github.com/alpaddesai/MixedSignal_SystemOnChip  and https://github.com/alpaddesai/SystemLevelDesignProductPortfolioIdea
 
 
