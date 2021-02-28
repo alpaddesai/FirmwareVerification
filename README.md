@@ -29,6 +29,6 @@ The project provides an introduction to system level verification. Confidential 
 ## System-on-chip
 ![image](SoC_SystemVerilog.jpg)
 
-Additional details please reference : https://github.com/alpaddesai/DigitalIC_VLSIDesign, https://github.com/alpaddesai/ComputerArchitecture, https://github.com/alpaddesai/MixedSignal_SystemOnChip  and https://github.com/alpaddesai/SystemLevelDesignProductPortfolioIdea
+Additional details please reference : https://github.com/alpaddesai/DigitalIC_VLSIDesign and https://github.com/alpaddesai/MixedSignal_SystemOnChip  
 
 
