@@ -22,12 +22,14 @@ The project provides an introduction to system level verification. Confidential 
 ## Cadence Incisive 15.2
 ![image](LabSimulations.png)
 
-
 ## Cadence System Verilog Assertions
 ![image](SystemVerilogAssertions.png)
 
 ## System-on-chip
 ![image](SoC_SystemVerilog.jpg)
+
+## Ethics and Integrity
+![image](EthicsandExcellence.png)
 
 Additional details please reference : https://github.com/alpaddesai/DigitalIC_VLSIDesign,  https://github.com/alpaddesai/MixedSignal_SystemOnChip and https://github.com/alpaddesai/SmartGridDesignIdea
 
