@@ -31,6 +31,6 @@ The project provides an introduction to system level verification. Confidential 
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
-Additional details please reference : https://github.com/alpaddesai/DigitalIC_VLSIDesign and https://github.com/alpaddesai/MixedSignal_SystemOnChip 
+Additional details please reference : https://github.com/alpaddesai/MSECE_ArchitecturalDesigns and https://github.com/alpaddesai/MixedSignal_SystemOnChip 
 
 
