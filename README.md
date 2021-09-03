@@ -28,6 +28,9 @@ The project provides an introduction to system level verification. Confidential 
 ## System-on-chip
 ![image](SoC_SystemVerilog.jpg)
 
+## Algorithms
+![image](SimulationsPerformanceMetrics.jpg)
+
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
