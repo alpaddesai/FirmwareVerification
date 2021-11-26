@@ -34,6 +34,6 @@ The project provides an introduction to system level verification. Confidential 
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
-Additional details please reference : https://github.com/alpaddesai/ECE_ArchitecturalDesign
+Additional details please reference : https://github.com/alpaddesai/MSECE_ArchitecturalDesign
 
 
