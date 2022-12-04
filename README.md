@@ -36,4 +36,4 @@ The project provides an introduction to system level verification. Confidential 
 
 ![image](USCopyrightCertificate.png)
 
-Additional details please reference : https://github.com/alpaddesai/ComputerArchitecture
+Additional details please reference : https://github.com/alpaddesai/TechnicalProjectManagement2022
