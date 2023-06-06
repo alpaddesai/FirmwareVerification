@@ -15,6 +15,8 @@ The project provides an introduction to system level verification. Confidential 
 
 ![image](SystemVerilog.jpg)
 
+![image](Firmwarequiz.jpg)
+
 ## Cadence System Verilog 
 ![image](SystemVerilogCertificate.jpg)
 ## Images of examples from the certification
