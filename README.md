@@ -25,9 +25,6 @@ The project provides an introduction to system level verification. Confidential 
 ## Cadence System Verilog Assertions
 ![image](SystemVerilogAssertions.png)
 
-## System-on-chip
-![image](SoC_SystemVerilog.jpg)
-
 ## Algorithms
 ![image](SimulationsPerformanceMetrics.jpg)
 
