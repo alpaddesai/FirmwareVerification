@@ -13,8 +13,6 @@ The project provides an introduction to system level verification. Confidential 
 
 ![image](HardentStudentCertificate.png)
 
-![image](Firmwarequiz.jpg)
-
 ## Cadence System Verilog 
 ![image](SystemVerilogCertificate.jpg)
 ## Images of examples from the certification
