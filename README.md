@@ -31,4 +31,4 @@ The project provides an introduction to system level verification. Confidential 
 
 ![image](USCopyrightCertificate.png)
 
-Additional details please reference : https://github.com/alpaddesai/ArchitecturalProductDesign
+Additional details please reference : https://github.com/alpaddesai/EmbeddedProgramming
