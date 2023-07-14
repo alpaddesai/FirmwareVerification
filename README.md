@@ -11,8 +11,6 @@ The project provides an introduction to system level verification. Confidential 
 
 ![image](FPGAVivadoDesignSuiteImage.png)
 
-![image](HardentStudentCertificate.png)
-
 ## Cadence System Verilog 
 ![image](SystemVerilogCertificate.jpg)
 ## Images of examples from the certification
